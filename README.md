@@ -1,5 +1,5 @@
 # Batch-Backup-Script
-A Windows batch script for backing up files from one location to another
+A Windows batchfile script for mirroring files between locations
 
 -------------
 Version 1.2.0
