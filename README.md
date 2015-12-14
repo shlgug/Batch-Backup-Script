@@ -27,5 +27,5 @@ Destination is the location to backup to.
 ExlcudeFile (optional) is the location of the text file which lists items to exclude from the backup (see below).
 - The exclude file (which by default is called only by the "Backup Hard Drive.bat" file) should contain a list of strings
 to exclude, each on a separate line.  When any of the strings match any part of the absolute path of the file to
-be copied, that file will be excluded from being copied.  For example, specifying a string like \obj\ or .obj will
-exclude all files underneath the directory obj or all files with the .obj extension respectively.
+be copied, that file will be excluded from being copied.  For example, specifying the string \obj\ will
+exclude all files and folders underneath the directory obj and specifying the string .obj will exclude all files with the .obj extension.
