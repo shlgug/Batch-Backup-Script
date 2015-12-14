@@ -18,8 +18,7 @@ to "\Backup\Hard Drive" on the backup drive.
 - "Backup All Users.bat" asks for the drive letter of the drive to backup to.
 It then runs the backup code to backup from "C:\Documents and Settings" and/or "C:\Users"
 to "\Backup\Documents and Settings" and/or "\Backup\Users" on the backup drive.
-- To change the location, right-click the file and click edit to edit it manually.
-You may want to make a copy of the file before changing the location.
+- To change the location, make a copy of one of files and edit it manually.
 - "Code.bat" is the backup code that is run with the parameters provided by the above mentioned batch files.
 "Code.bat" takes the following parameters: Code.bat Source Destination [ExcludeFile]
 Source is the location to backup.
