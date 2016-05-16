@@ -1,3 +1,4 @@
+@verify on
 @if "%~1"=="/?" (
 	@echo Source, Destination, Exclude File Path
 	@pause
