@@ -2,7 +2,7 @@
 A Windows batchfile script for mirroring files between locations
 
 -------------
-Version 1.2.0
+Version 1.2.1
 -------------
 
 What it does:
